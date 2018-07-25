@@ -1,0 +1,4 @@
+aiohttp==3.3.2
+pyppeteer==0.0.17
+sanic==0.7.0
+spider-client>=0.0.22

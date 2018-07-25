@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+*.log
+*.lock
+venv/
+*.html
+*.log.*
+*.pyc
